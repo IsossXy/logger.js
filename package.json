@@ -1,0 +1,18 @@
+{
+  "name": "@isoss/logger.js",
+  "version": "1.0.0",
+  "description": "A lightweight and simple logging library",
+  "main": "./src/index.js",
+  "types": "./typings/index.d.ts",
+  "repository": "github:IsossXy/logger.js",
+  "keywords": [
+    "log",
+    "logger",
+    "logging",
+    "node"
+  ],
+  "author": "IsossXy (https://github.com/IsossXy)",
+  "license": "MIT",
+  "bugs": "https://github.com/IsossXy/logger.js/issues",
+  "homepage": "https://github.com/IsossXy/logger.js#readme"
+}
